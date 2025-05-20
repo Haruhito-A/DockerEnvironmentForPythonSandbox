@@ -1,0 +1,9 @@
+services:
+  dev:
+    build: .
+    container_name: utokyo-ipp-dev
+    tty: true
+    volumes:
+      - ./src:/workspace/src
+    environment:
+      - TZ=Asia/Tokyo

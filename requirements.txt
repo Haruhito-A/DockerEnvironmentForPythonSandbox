@@ -1,0 +1,4 @@
+# 必要最低限
+numpy
+pandas
+matplotlib
