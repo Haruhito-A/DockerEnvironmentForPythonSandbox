@@ -1,5 +1,8 @@
 # utokyo-ipp-python-study
 
+> [!WARNING]
+> このレポジトリはテスト的に生成AIで作成したものです
+
 ## セットアップ手順
 
 ### 前提
